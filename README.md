@@ -5,3 +5,4 @@ hallo mijn naam is lotte
 dit is een trial 
 wat leuk 
 ik denk dat ik gek word van dit vak.
+welkom in de nieuwe branch
