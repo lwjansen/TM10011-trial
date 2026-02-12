@@ -6,3 +6,4 @@ dit is een trial
 wat leuk 
 ik denk dat ik gek word van dit vak.
 welkom terug in de main branch
+aanpassingen die ik wil mergen
